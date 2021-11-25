@@ -15,4 +15,4 @@ Right now I am focused on enjoying this journey.
 
 
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurselaltin.na/)
-[![Mail Badge](https://img.shields.io/badge/nurselaltin.na@gmail.com?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nurselaltin.na@gmail.com)]
+[![Mail Badge](https://img.shields.io/badge/nurselaltin.na@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nurselaltin.na@gmail.com)]
