@@ -7,7 +7,7 @@ My curiosity to learn how a system is set up, developed and managed led me to th
 
 I started  in 2019 this journey . I started with PHP , HTML ,CSS .
 Long time ago , I started with C# , .NET . 
-Now , I am developing project with C# , .NET .
+Now , I am developing project with C# , .NET Core on Backend side and Html, CSS and Javascript - Jquery on Frontend  side.
 
 I don't know where my passion for learning will take me in the days to come. 
 
