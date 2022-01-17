@@ -15,5 +15,5 @@ Right now I am focused on enjoying this journey.
 
 I am sharing my journey on instagram.You can check this ![image](https://user-images.githubusercontent.com/43447965/145212502-ef26911d-8ac6-4db3-b623-bd995feae4fa.png)
 
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurselaltin.na/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurselaltinna)
 
